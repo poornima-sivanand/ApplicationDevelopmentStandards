@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Application Development Standards
+nav_order: 1
+has_children: true
+has_toc: false
+---
+# Application Development Standards
 
-You can use the [editor on GitHub](https://github.com/poornima-sivanand/ApplicationDevelopmentStandards/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Purpose 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this Standard is to provide the baseline for anyone who designs or develops an application for the government of British Columbia
 
-### Markdown
+## Standards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1.1. Use a modern distributed version control system
 
-```markdown
-Syntax highlighted code block
+### 1.2. Test the service
 
-# Header 1
-## Header 2
-### Header 3
+### 1.3. Make it secure
 
-- Bulleted
-- List
+### 1.4. Use Consistent and Responsive Design
 
-1. Numbered
-2. List
+### 1.5. Measure the application performance consistently
 
-**Bold** and _Italic_ and `Code` text
+### 1.6. Continuously improve, develop, integrate and deploy
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/poornima-sivanand/ApplicationDevelopmentStandards/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
